@@ -8,6 +8,7 @@ public class principal {
 		System.out.println(micalc.sumar(5,3));
 		System.out.println(micalc.restar(5,3));
 		System.out.println(micalc.multiplicar(5,3));
+		System.out.println(micalc.dividir(5,3));
 	}
 
 }
